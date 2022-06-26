@@ -1,5 +1,7 @@
 # Zadanie Poistovna
 Filip Vida
+
+A Java project demonstrating the usage of OOP principles and a baisc GUI.
 #### Default Login Information
 2 predefined employees 
 
